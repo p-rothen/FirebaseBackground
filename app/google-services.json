@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "384017936897",
+    "firebase_url": "https://fir-background-f5739.firebaseio.com",
+    "project_id": "fir-background-f5739",
+    "storage_bucket": "fir-background-f5739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384017936897:android:2e5cb88876ae0fc1",
+        "android_client_info": {
+          "package_name": "com.example.pedrorothen.firebasebackground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384017936897-21kgcmbghir5dn1c1l5t0blp2bqhoq8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pedrorothen.firebasebackground",
+            "certificate_hash": "4f948c65312534d29bbc1b2fbdf854f1d61af646"
+          }
+        },
+        {
+          "client_id": "384017936897-2hmiovhf7jl2dlb092rvd9mk7tae8op8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHpwPIh5vOMnfErirxg0OCrUz6DSyXa-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384017936897-2hmiovhf7jl2dlb092rvd9mk7tae8op8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
